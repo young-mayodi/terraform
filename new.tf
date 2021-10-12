@@ -1,8 +1,8 @@
 
 provider "aws" {
   region     = "us-east-2"
-  access_key = "AKIAZFB3HWWC6DEBJ5TB"
-  secret_key = "FHVerpBgowO4bn6+NJc7fl3yRKDLfjXd2+/L4Hkw"
+  access_key = "enter your access key" #generate this from you AWS account
+  secret_key = "enter your secret key"# generate this from you aws account
 }
 
 #1. Create a VPC
